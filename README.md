@@ -2,6 +2,22 @@ A traditional Japanese village far from Pelican Town with charming people and be
 
 Visit today to find new foods, new items... and maybe new romance.
 
+### REQUIREMENTS: ###
+
+- TMXL
+- Content Patcher
+- Shop Tile framework
+- Bus Locations
+- Quest framework
+- Farm type manager
+- Json assets
+- custom NPC fixes
+
+### OPTIONAL: ###
+
+- NPC exclusion (prevents NPCs from participating in fetivals and whatnot)
+- More fish (adds koi to ponds)
+
 ### CURRENT FEATURES: ###
 
 - 14 new forage items
