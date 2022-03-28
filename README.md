@@ -1,3 +1,8 @@
+
+
+https://user-images.githubusercontent.com/29841469/160487802-d05e89e2-dab9-4a2a-a5c1-9f4cc8b84c5f.mp4
+
+
 A traditional Japanese village far from Pelican Town with charming people and beautiful scenery. What's not to love?
 
 Visit today to find new foods, new items... and maybe new romance.
