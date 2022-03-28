@@ -44,9 +44,11 @@ Visit today to find new foods, new items... and maybe new romance.
 - Custom music
 - More to do at the moon viewing festival
 - Seasonal outfits for the NPCs
+- Wildlife
 - ???
 
 ### KNOWN BUGS: ###
 
 - Events aren't fully tested yet
 - Sometimes rocks appear out of bounds in the mines. Not certain why they keep doing this, as I have disallowed spawning in those areas.
+- Reo currently has his sister's dialogue for winter, oops
